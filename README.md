@@ -6,7 +6,7 @@ Current Explorer can be found at [Accolade Explorer](http://explorer.accocoin.co
 At this point as of July of 2018, new wallets will not make major changes to the functionality of the blockchain. The original developers are not responsive and so development is being consolidated right now.
 
 # Team and Project Plan
-The team is currently being put together with the most experience people available.
+A team of volunteers is currently being put together that can move this coin forward.
 
 ## Overall Management
 
