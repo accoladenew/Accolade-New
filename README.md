@@ -6,6 +6,7 @@ At this point as of July of 2018, new wallets will not make major changes to the
 
 # Team
 The team is currently being put together with the most experience people available.
+
 # Project Plan
 
 ## Overall Management
