@@ -1,6 +1,6 @@
 ## Welcome to the New Accolade Coin 
 
-The old site will still have relevant information [Old Site](http://accoladecoin.com/) 
+The [old site will still have relevant information](http://accoladecoin.com/) 
 Current Explorer can be found at [Accolade Explorer](http://explorer.accocoin.com/) to maintain your masternodes.
 
 At this point as of July of 2018, new wallets will not make major changes to the functionality of the blockchain. The original developers are not responsive and so development is being consolidated right now.
