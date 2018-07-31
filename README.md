@@ -25,7 +25,7 @@ The team is currently being put together with the most experience people availab
 Misc
 This is in no way the entire project plan or infomation source and it is a work in progress.
 
-[Accolade Coin, the new](https://github.com/accoladenew/InitialWebsiteForAccoladeNew/blob/master/accoladevision.jpg)
+![Accolade Coin, the new](https://github.com/accoladenew/InitialWebsiteForAccoladeNew/blob/master/accoladevision.jpg)
 
 ### Support or Contact
 
