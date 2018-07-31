@@ -1,32 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to the Initial Web Page for Accolate-New
 
-You can use the [editor on GitHub](https://github.com/accoladenew/InitialWebsiteForAccoladeNew/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Current Explorer can be found at [Accolade Explorer](http://explorer.accocoin.com/) to maintain your masternodes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At this point as of July of 2018, new wallets will not make major changes to the functionality of the blockchain. The original developers are not responsive and so development is being consolidated right now.
 
-### Markdown
+### Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The team is currently being put together with the most experience people available.
 
-```markdown
-Syntax highlighted code block
+# Project Plan
+## Overall Management
+## Development
+1. Creation of Discord
+2. Creation of Website
+3. Obtaining server for seednodes
+4. Building new binaries and new versions
+## Marketing
+- Team to be assembled
+- Tools to be chosen
+- Direction to be determined
 
-# Header 1
-## Header 2
-### Header 3
+This is in no way the entire project plan or infomation source and it is a work in progress.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -34,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions or Having trouble with your masternodes? Check out our [Discord](https://discordapp.com/api/guilds/473923144239939585/widget.json)
