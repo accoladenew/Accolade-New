@@ -3,7 +3,7 @@
 The [old site will still have relevant information](http://accoladecoin.com/) 
 Current Explorer can be found at [Accolade Explorer](http://explorer.accocoin.com/) to maintain your masternodes.
 
-At this point as of July of 2018, new wallets will not make major changes to the functionality of the blockchain. The original developers are not responsive and so development is being consolidated right now.
+At this point as of July of 2018, new wallets will not make major changes to the functionality of the blockchain. The original developers are not responsive and so development is being consolidated here.
 
 # Team and Project Plan
 A team of volunteers is currently being put together that can move this coin forward.
