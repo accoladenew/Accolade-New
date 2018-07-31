@@ -10,6 +10,7 @@ The team is currently being put together with the most experience people availab
 # Project Plan
 
 ## Overall Management
+
   1.Communication channels set up (discord)
   2.Git Hub set up
   3.Adminstrative group chosen with direction
